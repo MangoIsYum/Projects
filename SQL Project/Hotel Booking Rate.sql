@@ -1,3 +1,6 @@
+/*
+Combining all the sheets to one chart and adding crutial information to the one chart
+*/
 
 with hotels as (
 select * from dbo.['2018$']
